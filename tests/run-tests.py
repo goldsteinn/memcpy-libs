@@ -22,11 +22,11 @@ def get_data_time(data):
 def run_process(cmd):
     try:
         start = time.perf_counter_ns()
-#        sproc = subprocess.Popen(cmd,
-#                                 shell=True,
-#                                 stdout=subprocess.DEVNULL,
-#                                 stderr=subprocess.DEVNULL)
-#        res = sproc.communicate()
+        sproc = subprocess.Popen(cmd,
+                                 shell=True,
+                                 stdout=subprocess.DEVNULL,
+                                 stderr=subprocess.DEVNULL)
+        res = sproc.communicate()
         end = time.perf_counter_ns()
         return end - start
 
@@ -37,6 +37,7 @@ def run_process(cmd):
 class Benchmark():
     def __init__(self, bench_dir, cmd, libs):
         self.bench_prefix = "LD_PRELOAD=/home/zhaoxin/programs/gcc-dev/tests/libs/{} taskset -c 0 "
+        #self.bench_prefix = "LD_PRELOAD=/home/noah/programs/opensource/gcc-dev/tests/libs/{} taskset -c 0 "
         self.bench_cmd = "make --silent -C {} {}".format(bench_dir, cmd)
 
         self.between_bench = "make --silent -C {} clean".format(bench_dir)
@@ -71,11 +72,18 @@ class Benchmark():
 
 
 benchmarks = []
+
+libs = [
+    "libmemcpy-avx-head.so", "libmemcpy-ssse3-dev-v1.so",
+    "libmemcpy-ssse3-glibc.so", "libmemcpy-sse2-head.so",
+    "libmemcpy-ssse3-dev-v2.so", "libmemmove-ssse3-glibc.so"
+]
+
 for d in ["small-1", "small-10", "small-100", "small-250"]:
     for cmd in ["bench", "build", "link"]:
-        benchmarks.append(Benchmark(d, cmd))
+        benchmarks.append(Benchmark(d, cmd, libs))
 for cmd in ["bench", "build", "link"]:
-    benchmarks.append(Benchmark("large-file", "bench"))
+    benchmarks.append(Benchmark("large-file", "bench", libs))
 
 for i in range(0, 30):
     for bench in benchmarks:
