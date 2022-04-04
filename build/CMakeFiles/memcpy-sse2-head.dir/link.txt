@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libmemcpy-sse2-head.so -o libmemcpy-sse2-head.so CMakeFiles/memcpy-sse2-head.dir/src/asm/memcpy-sse2-head.S.o CMakeFiles/memcpy-sse2-head.dir/src/asm/empty.c.o 

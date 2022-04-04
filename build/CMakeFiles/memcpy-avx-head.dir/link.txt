@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libmemcpy-avx-head.so -o libmemcpy-avx-head.so CMakeFiles/memcpy-avx-head.dir/src/asm/memcpy-avx-head.S.o CMakeFiles/memcpy-avx-head.dir/src/asm/empty.c.o 

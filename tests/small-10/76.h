@@ -1,0 +1,10 @@
+int f760(void);
+int f761(void);
+int f762(void);
+int f763(void);
+int f764(void);
+int f765(void);
+int f766(void);
+int f767(void);
+int f768(void);
+int f769(void);

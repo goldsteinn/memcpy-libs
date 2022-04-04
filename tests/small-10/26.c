@@ -1,0 +1,10 @@
+int f260(void) { return 0; }
+int f261(void) { return 0; }
+int f262(void) { return 0; }
+int f263(void) { return 0; }
+int f264(void) { return 0; }
+int f265(void) { return 0; }
+int f266(void) { return 0; }
+int f267(void) { return 0; }
+int f268(void) { return 0; }
+int f269(void) { return 0; }

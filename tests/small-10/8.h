@@ -1,0 +1,10 @@
+int f80(void);
+int f81(void);
+int f82(void);
+int f83(void);
+int f84(void);
+int f85(void);
+int f86(void);
+int f87(void);
+int f88(void);
+int f89(void);

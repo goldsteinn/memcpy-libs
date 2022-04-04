@@ -1,0 +1,10 @@
+int f180(void) { return 0; }
+int f181(void) { return 0; }
+int f182(void) { return 0; }
+int f183(void) { return 0; }
+int f184(void) { return 0; }
+int f185(void) { return 0; }
+int f186(void) { return 0; }
+int f187(void) { return 0; }
+int f188(void) { return 0; }
+int f189(void) { return 0; }

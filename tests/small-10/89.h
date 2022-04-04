@@ -1,0 +1,10 @@
+int f890(void);
+int f891(void);
+int f892(void);
+int f893(void);
+int f894(void);
+int f895(void);
+int f896(void);
+int f897(void);
+int f898(void);
+int f899(void);

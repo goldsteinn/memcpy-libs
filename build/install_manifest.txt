@@ -1,0 +1,6 @@
+/home/noah/programs/projects/memcpylibs/libs/libmemcpy-avx-head.so
+/home/noah/programs/projects/memcpylibs/libs/libmemcpy-sse2-head.so
+/home/noah/programs/projects/memcpylibs/libs/libmemcpy-ssse3-dev-v1.so
+/home/noah/programs/projects/memcpylibs/libs/libmemcpy-ssse3-dev-v2.so
+/home/noah/programs/projects/memcpylibs/libs/libmemcpy-ssse3-glibc.so
+/home/noah/programs/projects/memcpylibs/libs/libmemmove-ssse3-glibc.so

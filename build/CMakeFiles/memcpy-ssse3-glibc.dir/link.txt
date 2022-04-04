@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libmemcpy-ssse3-glibc.so -o libmemcpy-ssse3-glibc.so CMakeFiles/memcpy-ssse3-glibc.dir/src/asm/memcpy-ssse3-glibc.S.o CMakeFiles/memcpy-ssse3-glibc.dir/src/asm/empty.c.o 

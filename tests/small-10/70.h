@@ -1,0 +1,10 @@
+int f700(void);
+int f701(void);
+int f702(void);
+int f703(void);
+int f704(void);
+int f705(void);
+int f706(void);
+int f707(void);
+int f708(void);
+int f709(void);

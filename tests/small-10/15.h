@@ -1,0 +1,10 @@
+int f150(void);
+int f151(void);
+int f152(void);
+int f153(void);
+int f154(void);
+int f155(void);
+int f156(void);
+int f157(void);
+int f158(void);
+int f159(void);

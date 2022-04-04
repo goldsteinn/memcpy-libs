@@ -1,0 +1,10 @@
+int f980(void);
+int f981(void);
+int f982(void);
+int f983(void);
+int f984(void);
+int f985(void);
+int f986(void);
+int f987(void);
+int f988(void);
+int f989(void);

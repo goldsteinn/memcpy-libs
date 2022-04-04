@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libmemmove-ssse3-glibc.so -o libmemmove-ssse3-glibc.so CMakeFiles/memmove-ssse3-glibc.dir/src/asm/memmove-ssse3-glibc.S.o CMakeFiles/memmove-ssse3-glibc.dir/src/asm/empty.c.o 

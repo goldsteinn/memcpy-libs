@@ -1,0 +1,10 @@
+int f650(void) { return 0; }
+int f651(void) { return 0; }
+int f652(void) { return 0; }
+int f653(void) { return 0; }
+int f654(void) { return 0; }
+int f655(void) { return 0; }
+int f656(void) { return 0; }
+int f657(void) { return 0; }
+int f658(void) { return 0; }
+int f659(void) { return 0; }

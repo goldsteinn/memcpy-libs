@@ -1,0 +1,10 @@
+int f370(void);
+int f371(void);
+int f372(void);
+int f373(void);
+int f374(void);
+int f375(void);
+int f376(void);
+int f377(void);
+int f378(void);
+int f379(void);

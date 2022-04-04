@@ -1,0 +1,10 @@
+int f800(void);
+int f801(void);
+int f802(void);
+int f803(void);
+int f804(void);
+int f805(void);
+int f806(void);
+int f807(void);
+int f808(void);
+int f809(void);

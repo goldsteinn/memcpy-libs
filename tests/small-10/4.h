@@ -1,0 +1,10 @@
+int f40(void);
+int f41(void);
+int f42(void);
+int f43(void);
+int f44(void);
+int f45(void);
+int f46(void);
+int f47(void);
+int f48(void);
+int f49(void);

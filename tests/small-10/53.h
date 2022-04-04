@@ -1,0 +1,10 @@
+int f530(void);
+int f531(void);
+int f532(void);
+int f533(void);
+int f534(void);
+int f535(void);
+int f536(void);
+int f537(void);
+int f538(void);
+int f539(void);

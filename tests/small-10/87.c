@@ -1,0 +1,10 @@
+int f870(void) { return 0; }
+int f871(void) { return 0; }
+int f872(void) { return 0; }
+int f873(void) { return 0; }
+int f874(void) { return 0; }
+int f875(void) { return 0; }
+int f876(void) { return 0; }
+int f877(void) { return 0; }
+int f878(void) { return 0; }
+int f879(void) { return 0; }

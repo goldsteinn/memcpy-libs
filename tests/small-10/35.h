@@ -1,0 +1,10 @@
+int f350(void);
+int f351(void);
+int f352(void);
+int f353(void);
+int f354(void);
+int f355(void);
+int f356(void);
+int f357(void);
+int f358(void);
+int f359(void);

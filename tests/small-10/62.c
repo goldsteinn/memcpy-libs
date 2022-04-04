@@ -1,0 +1,10 @@
+int f620(void) { return 0; }
+int f621(void) { return 0; }
+int f622(void) { return 0; }
+int f623(void) { return 0; }
+int f624(void) { return 0; }
+int f625(void) { return 0; }
+int f626(void) { return 0; }
+int f627(void) { return 0; }
+int f628(void) { return 0; }
+int f629(void) { return 0; }

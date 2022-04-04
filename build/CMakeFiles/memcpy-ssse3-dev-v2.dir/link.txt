@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libmemcpy-ssse3-dev-v2.so -o libmemcpy-ssse3-dev-v2.so CMakeFiles/memcpy-ssse3-dev-v2.dir/src/asm/memcpy-ssse3-dev-v2.S.o CMakeFiles/memcpy-ssse3-dev-v2.dir/src/asm/empty.c.o 

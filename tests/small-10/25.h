@@ -1,0 +1,10 @@
+int f250(void);
+int f251(void);
+int f252(void);
+int f253(void);
+int f254(void);
+int f255(void);
+int f256(void);
+int f257(void);
+int f258(void);
+int f259(void);

@@ -1,0 +1,10 @@
+int f360(void);
+int f361(void);
+int f362(void);
+int f363(void);
+int f364(void);
+int f365(void);
+int f366(void);
+int f367(void);
+int f368(void);
+int f369(void);

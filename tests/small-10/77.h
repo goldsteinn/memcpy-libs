@@ -1,0 +1,10 @@
+int f770(void);
+int f771(void);
+int f772(void);
+int f773(void);
+int f774(void);
+int f775(void);
+int f776(void);
+int f777(void);
+int f778(void);
+int f779(void);

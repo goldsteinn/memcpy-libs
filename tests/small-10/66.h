@@ -1,0 +1,10 @@
+int f660(void);
+int f661(void);
+int f662(void);
+int f663(void);
+int f664(void);
+int f665(void);
+int f666(void);
+int f667(void);
+int f668(void);
+int f669(void);

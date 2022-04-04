@@ -1,0 +1,10 @@
+int f80(void) { return 0; }
+int f81(void) { return 0; }
+int f82(void) { return 0; }
+int f83(void) { return 0; }
+int f84(void) { return 0; }
+int f85(void) { return 0; }
+int f86(void) { return 0; }
+int f87(void) { return 0; }
+int f88(void) { return 0; }
+int f89(void) { return 0; }

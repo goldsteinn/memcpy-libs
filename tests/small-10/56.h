@@ -1,0 +1,10 @@
+int f560(void);
+int f561(void);
+int f562(void);
+int f563(void);
+int f564(void);
+int f565(void);
+int f566(void);
+int f567(void);
+int f568(void);
+int f569(void);

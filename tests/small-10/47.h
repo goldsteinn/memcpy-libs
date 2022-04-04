@@ -1,0 +1,10 @@
+int f470(void);
+int f471(void);
+int f472(void);
+int f473(void);
+int f474(void);
+int f475(void);
+int f476(void);
+int f477(void);
+int f478(void);
+int f479(void);

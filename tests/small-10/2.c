@@ -1,0 +1,10 @@
+int f20(void) { return 0; }
+int f21(void) { return 0; }
+int f22(void) { return 0; }
+int f23(void) { return 0; }
+int f24(void) { return 0; }
+int f25(void) { return 0; }
+int f26(void) { return 0; }
+int f27(void) { return 0; }
+int f28(void) { return 0; }
+int f29(void) { return 0; }

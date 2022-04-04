@@ -1,0 +1,10 @@
+int f380(void) { return 0; }
+int f381(void) { return 0; }
+int f382(void) { return 0; }
+int f383(void) { return 0; }
+int f384(void) { return 0; }
+int f385(void) { return 0; }
+int f386(void) { return 0; }
+int f387(void) { return 0; }
+int f388(void) { return 0; }
+int f389(void) { return 0; }

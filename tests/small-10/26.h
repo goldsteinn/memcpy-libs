@@ -1,0 +1,10 @@
+int f260(void);
+int f261(void);
+int f262(void);
+int f263(void);
+int f264(void);
+int f265(void);
+int f266(void);
+int f267(void);
+int f268(void);
+int f269(void);

@@ -1,0 +1,10 @@
+int f780(void) { return 0; }
+int f781(void) { return 0; }
+int f782(void) { return 0; }
+int f783(void) { return 0; }
+int f784(void) { return 0; }
+int f785(void) { return 0; }
+int f786(void) { return 0; }
+int f787(void) { return 0; }
+int f788(void) { return 0; }
+int f789(void) { return 0; }
